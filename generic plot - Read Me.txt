@@ -1,0 +1,13 @@
+This text file contains steps to process your data from OSA
+
+
+1. Execute generic plot.py file
+
+2. Enter the date and file number in the following format: YYYYMMDD_XXX
+
+(Please verify your filename before proceding to next step)
+
+3. Enter the number of traces
+
+
+This will generate a single plot of all your traces.

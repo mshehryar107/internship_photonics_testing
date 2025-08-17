@@ -1,0 +1,10 @@
+
+This text file contains steps to process your data from OSA using OSA_Plotter.py
+
+
+
+1. Enter the full path for your data file (e.g., /path/to/WaveData.csv)
+
+2. Enter the full path where you want to save the plot (e.g., /path/to/output_plot.png)
+
+3. This code will automatically process your data file if it exists and save the plot in the specified folder
